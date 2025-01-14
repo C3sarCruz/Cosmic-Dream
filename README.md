@@ -1,5 +1,5 @@
 # Cosmic Dream
- ![]()
+ ![](https://github.com/C3sarCruz/Cosmic-Dream/blob/main/CosmicDream1.png)
 > [Link al Juego en Itch.io](https://cesarcruz17.itch.io/cosmic-dream)
 ## Descripción: 
 * Tu eres sobreviviente de una nave espacial que enfrenta a diferentes jefes en el espacio. Con una banda sonora que acompaña cada nivel.  
